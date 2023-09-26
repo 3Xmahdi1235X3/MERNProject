@@ -1,4 +1,3 @@
-Certainly, here's a concise README for a MERN (MongoDB, Express.js, React, Node.js) e-commerce project, focusing on the essential setup commands:
 
 ```
 # MERN E-Commerce Project
